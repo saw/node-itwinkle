@@ -10,6 +10,8 @@ native color format for the lights, which seem to be little-endian so therefor
 BGR. Each color is only 4 bits (0-f) but the format seems to support eight bits 
 and ignores the value of the first digit, so it is always 0.
 
+To see this in use in a simple web app checkout https://github.com/saw/lightctrl
+
 
 ```
 $ npm install --save node-itwinkle
