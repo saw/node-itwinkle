@@ -12,6 +12,7 @@ and ignores the value of the first digit, so it is always 0.
 
 
 ```
+npm install --save node-itwinkle
 var iTwinkle = require('node-itwinkle');
 
 iTwinkle.on()
