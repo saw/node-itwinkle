@@ -70,3 +70,22 @@ kleCMD2037000000(&'+.
 
 kleCMD2099000000(&'+.
 
+
+three bulbs at a time:
+ kleCMD05[DD][BB][GG][RR]
+ (bulb set 0-12)
+
+kleCMD0500FFFFFF(&'+ [Bulbs 0-2 white]
+kleCMD0501FFFFFF(&'+ [Bulbs 3-5 white]
+kleCMD0502FFFFFF(&'+ [and so on... ]
+kleCMD0503FFFFFF(&'+ 
+kleCMD0504FFFFFF(&'+ 
+kleCMD0505FFFFFF(&'+ 
+kleCMD0506FFFFFF(&'+ 
+kleCMD0507FFFFFF(&'+ 
+kleCMD0508FFFFFF(&'+ 
+
+kleCMD0509FFFFFF(&'+ 
+kleCMD050AFFFFFF(&'+ 
+kleCMD050BFFFFFF(&'+ 
+
