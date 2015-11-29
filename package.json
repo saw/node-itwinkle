@@ -1,6 +1,6 @@
 {
   "name": "node-itwinkle",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Control iTwinkle lights via node",
   "main": "index.js",
   "scripts": {
